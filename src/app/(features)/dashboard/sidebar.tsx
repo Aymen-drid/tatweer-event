@@ -47,7 +47,7 @@ export function Sidebar() {
         { name: "Income", href: "/dashboard/revenue", icon: DollarSign },
         { name: "Billing", href: "/dashboard/billing", icon: FileText },
         { name: "Tracking", href: "/dashboard/tracking", icon: Truck },
-        { name: "Add Truck", href: "/dashboard/transp", icon: Truck },
+        { name: "Add Truck", href: "/dashboard/addtruck", icon: Truck },
 
       ]
 
