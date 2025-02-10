@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 
 **Project Maintainer:** [Your Name]
-- Email: contact@trackiny.com
+- Email: aymendridforwork@gmail.com
 - LinkedIn: [[Aymen-drid](https://www.linkedin.com/in/aymen-drid-36bba4243/)]
 - Project Link: [https://github.com/Aymen-drid/tatweer-event](https://github.com/Aymen-drid/tatweer-event)
 
