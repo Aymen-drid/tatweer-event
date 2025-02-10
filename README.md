@@ -142,9 +142,20 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 **Project Maintainer:** [Your Name]
 - Email: contact@trackiny.com
-- LinkedIn: [Your LinkedIn]
-- Project Link: [https://github.com/yourusername/trackiny](https://github.com/yourusername/trackiny)
+- LinkedIn: [[Aymen-drid](https://www.linkedin.com/in/aymen-drid-36bba4243/)]
+- Project Link: [https://github.com/Aymen-drid/tatweer-event](https://github.com/Aymen-drid/tatweer-event)
 
 ---
 
 **Made with ❤️ by the Trackiny Team**
+
+    Getting Started
+    Dashboard Preview
+    Demo Video
+
+Overview
+
+Trackiny is an innovative logistics platform designed to transform transportation management through cutting-edge technology. By leveraging automation, real-time tracking, and intelligent route optimization, we help businesses reduce operational costs and enhance delivery efficiency.
+
+Dashboard Overview
+Key Problems We Solve
