@@ -9,7 +9,7 @@ import { getDatabase } from "firebase/database";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBwIShkFr-mBlbiLyHIDBgrIZ0xRUAXAys",
+  apiKey: process.env.get,
   databaseURL: "https://tatweer-e08bf-default-rtdb.europe-west1.firebasedatabase.app",
   authDomain: "tatweer-e08bf.firebaseapp.com",
   projectId: "tatweer-e08bf",
